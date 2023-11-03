@@ -22,7 +22,6 @@ pipeline{
                     mvnTest()
 
                 }
-                )
             }
         }
 
@@ -30,4 +29,3 @@ pipeline{
             
         }
     }
-}
