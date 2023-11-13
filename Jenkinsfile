@@ -15,7 +15,7 @@ pipeline{
                    // branch: "main",
                   //  url: "https://github.com/asingh824/https---github.com-asingh824-singh1_java_app.git"
                     //git branch: 'main', url: 'https://github.com/asingh824/https---github.com-asingh824-singh1_java_app.git'
-                )
+                //)
             }
         }
 /*
@@ -28,6 +28,6 @@ pipeline{
 
                 }
             }
-        }   
-        }*/
+        }   */
+        }
     }
