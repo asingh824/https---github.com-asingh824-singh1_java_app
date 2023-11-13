@@ -1,3 +1,4 @@
+//original jenkinsfile
 @Library('my-shared-library') _
 pipeline{
 
@@ -7,9 +8,13 @@ pipeline{
         stage('Git Checkout'){
 
             steps{
-                gitCheckout(
-                    branch: "main",
-                    url: "https://github.com/asingh824/singh1_java_app.git"
+                script{
+                    git branch: 'main', url: 'https://github.com/asingh824/https---github.com-asingh824-singh1_java_app.git'
+                }
+                //gitCheckout(
+                   // branch: "main",
+                  //  url: "https://github.com/asingh824/https---github.com-asingh824-singh1_java_app.git"
+                    //git branch: 'main', url: 'https://github.com/asingh824/https---github.com-asingh824-singh1_java_app.git'
                 )
             }
         }
