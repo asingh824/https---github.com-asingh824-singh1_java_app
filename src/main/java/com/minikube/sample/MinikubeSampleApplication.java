@@ -1,3 +1,4 @@
+/*
 package com.minikube.sample;
 
 import org.springframework.boot.SpringApplication;
@@ -13,3 +14,4 @@ public class MinikubeSampleApplication {
         SpringApplication.run(MinikubeSampleApplication.class, args);
     }
 }
+*/
