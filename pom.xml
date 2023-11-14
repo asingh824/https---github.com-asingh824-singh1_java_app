@@ -69,9 +69,6 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
-
-    <build>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -79,6 +76,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>
