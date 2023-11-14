@@ -1,4 +1,4 @@
-/* 
+
 package com.minikube.sample;
 
 import org.junit.Test;
@@ -15,4 +15,3 @@ public class MinikubeSampleApplicationTests {
 	}
 
 }
-*/
